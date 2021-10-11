@@ -12,7 +12,7 @@ Furthermore, through the module challenge, we are adding the following to the an
 - The county with the highest turnout
 
 ## Election-Audit Results
-
+![Election Results](https://github.com/Ellla12/VBAofWallStreet/blob/main/Resources/All%20Stocks%20Analysis.PNG)
 - How many votes were cast in this congressional election?
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 - Which county had the largest number of votes?
