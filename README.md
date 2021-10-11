@@ -35,3 +35,6 @@ Total Votes: 369,711
 <br>Percentage: 73.8%
 
 ## Election-Audit Summary
+The benefit of the Election-Audit script is that it can be adjusted and used for different elections. The current script only tabulates results for Colorado, but this can be modified and used for other states or any election that the commission is overseeing.
+
+Furthermore, this scripts reads from csv files, so election results are not hard-coded into the script. This means that it is very simple to analyze election results with the current script. To do that, they'll just have to formulate a similar csv file.
